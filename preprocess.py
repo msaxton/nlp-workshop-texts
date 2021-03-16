@@ -25,8 +25,8 @@ cog_books = re.split(pattern, complete_text)
 
 del cog_books[0]
 
-fns = ['aug_cog_1', 'aug_cog_2', 'aug_cog_3', 'aug_cog_4', 'aug_cog_5',
-'aug_cog_6', 'aug_cog_7', 'aug_cog_8', 'aug_cog_9', 'aug_cog_10',
+fns = ['aug_cog_01', 'aug_cog_02', 'aug_cog_03', 'aug_cog_04', 'aug_cog_05',
+'aug_cog_06', 'aug_cog_07', 'aug_cog_08', 'aug_cog_09', 'aug_cog_10',
 'aug_cog_11','aug_cog_12', 'aug_cog_13', 'aug_cog_14', 'aug_cog_15',
 'aug_cog_16', 'aug_cog_17', 'aug_cog_18', 'aug_cog_19', 'aug_cog_20',
 'aug_cog_21', 'aug_cog_22']
